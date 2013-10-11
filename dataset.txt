@@ -1,0 +1,31 @@
+Epistemology is concerned with the nature and scope of knowledge, such as the relationships between truth, belief, and theories of justification
+Skepticism is the position which questions the possibility of completely justifying any truth
+The regress argument, a fundamental problem in epistemology, occurs when, in order to completely prove any statement, its justification itself needs to be supported by another justification
+This chain can do three possible options, all of which are unsatisfactory according to the Münchhausen trilemma
+One option is infinitism, where this chain of justification can go on forever
+Another option is foundationalism, where the chain of justifications eventually relies on basic beliefs or axioms that are left unproven
+The last option, such as in coherentism, is making the chain circular so that a statement is included in its own chain of justification
+Rationalism is the emphasis on reasoning as a source of knowledge
+Empiricism is the emphasis on observational evidence via sensory experience over other evidence as the source of knowledge
+Rationalism claims that every possible object of knowledge can be deduced from coherent premises without observation
+Empiricism claims that at least some knowledge is only a matter of observation
+For this, Empiricism often cites the concept of tabula rasa, where individuals are not born with mental content and that knowledge builds from experience or perception
+Epistemological solipsism is the idea that the existence of the world outside the mind is an unresolvable question
+Parmenides (fl. 500 BC) argued that it is impossible to doubt that thinking actually occurs
+But thinking must have an object, therefore something beyond thinking really exists
+Parmenides deduced that what really exists must have certain properties—for example, that it cannot come into existence or cease to exist, that it is a coherent whole, that it remains the same eternally (in fact, exists altogether outside time)
+This is known as the third man argument
+Plato (427–347 BC) combined rationalism with a form of realism
+The philosopher's work is to consider being, and the essence (ousia) of things
+But the characteristic of essences is that they are universal
+The nature of a man, a triangle, a tree, applies to all men, all triangles, all trees
+Plato argued that these essences are mind-independent "forms", that humans (but particularly philosophers) can come to know by reason, and by ignoring the distractions of sense-perception
+Modern rationalism begins with Descartes
+Reflection on the nature of perceptual experience, as well as scientific discoveries in physiology and optics, led Descartes (and also Locke) to the view that we are directly aware of ideas, rather than objects
+This view gave rise to three questions: Is an idea a true copy of the real thing that it represents? Sensation is not a direct interaction between bodily objects and our sense, but is a physiological process involving representation (for example, an image on the retina)
+Locke thought that a "secondary quality" such as a sensation of green could in no way resemble the arrangement of particles in matter that go to produce this sensation, although he thought that "primary qualities" such as shape, size, number, were really in objects
+How can physical objects such as chairs and tables, or even physiological processes in the brain, give rise to mental items such as ideas? This is part of what became known as the mind-body problem
+If all the contents of awareness are ideas, how can we know that anything exists apart from ideas? Descartes tried to address the last problem by reason
+He began, echoing Parmenides, with a principle that he thought could not coherently be denied: I think, therefore I am (often given in his original Latin: Cogito ergo sum)
+From this principle, Descartes went on to construct a complete system of knowledge (which involves proving the existence of God, using, among other means, a version of the ontological argument)
+His view that reason alone could yield substantial truths about reality strongly influenced those philosophers usually considered modern rationalists (such as Baruch Spinoza, Gottfried Leibniz, and Christian Wolff), while provoking criticism from other philosophers who have retrospectively come to be grouped together as empiricists
